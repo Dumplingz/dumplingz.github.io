@@ -81,7 +81,7 @@
   contents:
     - <u>Founder & Organizer</u> | Chicago Data Night | Chicago, IL | 2023 - Present
     - <u>Databases for Public Policy Tutor</u> | University of Chicago | Chicago, IL | 2024
-    - <u>UChicago Badminton Club President</u> | University of Chicago | Chicago, IL | 2021 - 2022
+    # - <u>UChicago Badminton Club President</u> | University of Chicago | Chicago, IL | 2021 - 2022
 
 
 # - title: Academic Interests
@@ -96,8 +96,12 @@
 #         - Description 1.
 #         - Description 2.
 
-- title: Skills / Hobbies
+- title: Technical Skills
   type: list
   contents:
     - <u>Programming Languages:</u> Python (Proficient), C (Prior Experience), Java (Prior Experience), Ruby (Prior Experience), Javascript (Basic Knowledge)
+
+- title: Hobbies
+  type: list
+  contents:
     - <u>Hobbies:</u> Cooking, badminton, lifting, and backpacking
