@@ -3,8 +3,8 @@
   contents:
     - name: Full Name
       value: Christopher Haohua Zhu
-    - name: Date of Birth
-      value: 26th March 2000
+    - name: Year of Birth
+      value: 2000
 
 - title: Education
   type: time_table
