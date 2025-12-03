@@ -36,13 +36,13 @@
       institution: University of Chicago
       year: 09/2023 - Present
       description:
-        - "Address problems in Data Sharing: how to help data-driven organizations combine their data with others to unleash its value. Develop a model to describe data sharing called the Dataflow."
-        - "Apply the Dataflow model to find commonalities between various Privacy Enhancing Technologies, and evaluate them over the dimensions of trust, scope, and performance."
+        - "Developed a model called the Dataflow to address problems in data sharing: how to help data-driven organizations combine their data with others to unleash its value."
+        - "Conducted a comparison of Privacy Enhancing Technologies for data sharing, applying the Dataflow model to evaluate them over the dimensions of trust, scope, and performance."
     - title: Full-Time Research Assistant
       institution: University of Chicago
       year: 09/2022 - present
       description:
-      - "Focused on joining disparate schemas and contract-based access control for Data Sharing."
+      - "Created an abstraction to tackle joining disparate schemas and access control for data sharing."
     - title: Undergraduate Research Assistant
       institution: University of Chicago
       year: 08/2021 - 06/2022
